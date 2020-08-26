@@ -54,5 +54,13 @@
     "subtitle": "ESTPINANATO KOMSILER PERTIPALO",
     "text": "Volutpat diam ut venenatis tellus in metus. Tempor id eu nisl nunc mi ipsum faucibus vitae aliquet. Nunc congue nisi vitae suscipit tellus mauris. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Sit amet mattis vulputate enim nulla aliquet. Praesent tristique magna sit amet purus. Sed sed risus pretium quam vulputate dignissim suspendisse. Pharetra convallis posuere morbi leo urna molestie. Sit amet facilisis magna etiam tempor orci eu. Dis parturient montes nascetur ridiculus mus mauris vitae. Varius sit amet mattis vulputate. Tellus pellentesque eu tincidunt tortor aliquam nulla. Ultricies mi quis hendrerit dolor magna. Fermentum dui faucibus in ornare quam viverra orci sagittis.",
     "picture": "https://i.hizliresim.com/rMAGeT.png"
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "currency": "TRY",
+    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/tur.png",
+    "language": "Turkish"
   }
 ]
