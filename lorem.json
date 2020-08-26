@@ -56,11 +56,10 @@
     "picture": "https://i.hizliresim.com/rMAGeT.png"
   },
   {
-    "name": "Turkey",
-    "capital": "Ankara",
-    "region": "Asia",
-    "currency": "TRY",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/tur.png",
-    "language": "Turkish"
+    "subject": "Turkey",
+    "title": "Ankara",
+    "subtitle": "Asia",
+    "text": "TRY",
+    "picture": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/tur.png"
   }
 ]
